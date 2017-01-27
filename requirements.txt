@@ -1,4 +1,4 @@
+awscli==1.11.44
 docker==2.0.2
 docker-compose==1.10.0
-awscli==1.11.44
 pylint==1.6.5
