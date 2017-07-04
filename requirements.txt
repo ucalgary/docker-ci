@@ -1,5 +1,5 @@
 awscli==1.11.92
 docker==2.3.0
-docker-compose==1.13.0
+docker-compose==1.14.0
 pylint==1.7.1
 selenium==3.4.2
