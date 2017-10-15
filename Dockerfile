@@ -1,4 +1,4 @@
-FROM docker:17.07.0-ce-git
+FROM docker:17.10.0-ce-git
 
 RUN apk add --no-cache \
       ansible \
