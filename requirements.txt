@@ -1,5 +1,5 @@
-awscli==1.11.170
-docker==2.5.1
-docker-compose==1.16.1
-pylint==1.7.4
-selenium==3.6.0
+awscli==1.14.17
+docker==2.7.0
+docker-compose==1.18.0
+pylint==1.8.1
+selenium==3.8.0
