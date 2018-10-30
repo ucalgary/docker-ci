@@ -1,4 +1,4 @@
-FROM docker:17.09.1-ce-git
+FROM docker:18.06.1-ce-git
 
 RUN apk add --no-cache --update python ansible py-pip jq
 
